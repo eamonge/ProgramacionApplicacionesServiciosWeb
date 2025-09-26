@@ -2,6 +2,7 @@
     "productosMedicina": [
         {
             "id": "1",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Alegra",
             "date": "2025-09-24",
             "monto_producto": 4,
@@ -10,6 +11,7 @@
         },
         {
             "id": "2",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Paracetamol",
             "date": "2024-12-31",
             "monto_producto": 2,
@@ -18,6 +20,7 @@
         },
         {
             "id": "3",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Ibuprofeno",
             "date": "2020-04-23",
             "monto_producto": 95,
@@ -26,6 +29,7 @@
         },
         {
             "id": "4",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Amoxicilina",
             "date": "2025-09-24",
             "monto_producto": 8,
@@ -34,6 +38,7 @@
         },
         {
             "id": "5",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Azitromicina",
             "date": "2016-08-24",
             "monto_producto": 5,
@@ -42,6 +47,7 @@
         },
         {
             "id": "6",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Losartán",
             "date": "2018-11-23",
             "monto_producto": 87,
@@ -50,6 +56,7 @@
         },
         {
             "id": "7",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Naproxeno",
             "date": "2021-01-06",
             "monto_producto": 37,
@@ -58,6 +65,7 @@
         },
         {
             "id": "8",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Diclofenaco",
             "date": "2009-02-14",
             "monto_producto": 21,
@@ -66,6 +74,7 @@
         },
         {
             "id": "9",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Adiro 100",
             "date": "2022-06-06",
             "monto_producto": 42,
@@ -74,6 +83,7 @@
         },
         {
             "id": "10",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Nolotil",
             "date": "2020-01-01",
             "monto_producto": 81,
@@ -82,6 +92,7 @@
         },
         {
             "id": "11",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
             "product_name": "Sintrom",
             "date": "2010-04-09",
             "monto_producto": 96,
