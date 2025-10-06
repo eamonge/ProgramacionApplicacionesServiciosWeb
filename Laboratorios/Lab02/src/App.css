@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+table thead {
+  background-color: aqua;
+  color: whitesmoke;
+  height: 3em;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+
+  background: #00C9FF;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #92FE9D, #00C9FF);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #92FE9D, #00C9FF);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+table tbody {
+
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.tableDiv {
+  /* position: relative; */
+  margin-top: 5em;
+}
+
+.contentModal .btnSubmit {
+  background-color: #6AB187;
+  padding: 1em;
+  border: none;
+  border-radius: 20px;
+  width: 50%;
+  color: white;
+  font-weight: bold;
+}
+
+.contentModal .btnCancel {
+  background-color: #D32D41;
+}
+
+/* Add item */
+.btnAddItem {
+  position: relative;
+  left: 25%;
+  background-color: #92FE9D;
+  border: none;
+  width: 50%;
+  padding: 1em;
+  border-radius: 10px;
+  color: black;
+  font-weight: bold;
+}
