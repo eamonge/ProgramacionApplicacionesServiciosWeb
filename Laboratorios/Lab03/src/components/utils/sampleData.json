@@ -1,0 +1,103 @@
+{
+    "productosMedicina": [
+        {
+            "id": "1",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Alegra",
+            "date": "2025-09-24",
+            "monto_producto": 4,
+            "cantidad": 5,
+            "sucursal": "Sucursal A"
+        },
+        {
+            "id": "2",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Paracetamol",
+            "date": "2024-12-31",
+            "monto_producto": 2,
+            "cantidad": 5,
+            "sucursal": "Sucursal B"
+        },
+        {
+            "id": "3",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Ibuprofeno",
+            "date": "2020-04-23",
+            "monto_producto": 95,
+            "cantidad": 2,
+            "sucursal": "Sucursal C"
+        },
+        {
+            "id": "4",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Amoxicilina",
+            "date": "2025-09-24",
+            "monto_producto": 8,
+            "cantidad": 96,
+            "sucursal": "Sucursal D"
+        },
+        {
+            "id": "5",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Azitromicina",
+            "date": "2016-08-24",
+            "monto_producto": 5,
+            "cantidad": 56,
+            "sucursal": "Sucursal A"
+        },
+        {
+            "id": "6",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Losartán",
+            "date": "2018-11-23",
+            "monto_producto": 87,
+            "cantidad": 13,
+            "sucursal": "Sucursal A"
+        },
+        {
+            "id": "7",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Naproxeno",
+            "date": "2021-01-06",
+            "monto_producto": 37,
+            "cantidad": 87,
+            "sucursal": "Sucursal C"
+        },
+        {
+            "id": "8",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Diclofenaco",
+            "date": "2009-02-14",
+            "monto_producto": 21,
+            "cantidad": 50,
+            "sucursal": "Sucursal A"
+        },
+        {
+            "id": "9",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Adiro 100",
+            "date": "2022-06-06",
+            "monto_producto": 42,
+            "cantidad": 15,
+            "sucursal": "Sucursal B"
+        },
+        {
+            "id": "10",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Nolotil",
+            "date": "2020-01-01",
+            "monto_producto": 81,
+            "cantidad": 42,
+            "sucursal": "Sucursal B"
+        },
+        {
+            "id": "11",
+            "img": "https://png.pngtree.com/png-vector/20220607/ourmid/pngtree-capsule-and-pills-icon-png-image_4856605.png",
+            "product_name": "Sintrom",
+            "date": "2010-04-09",
+            "monto_producto": 96,
+            "cantidad": 79,
+            "sucursal": "Sucursal C"
+        }
+    ]
+}
