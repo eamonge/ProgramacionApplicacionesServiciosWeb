@@ -1,0 +1,44 @@
+{
+    "doctores": [
+        {
+            "id": "1",
+            "primer_nombre": "Alberto",
+            "Apellido": "Echeverría",
+            "cedula": "179848518",
+            "profesion": "Doctor",
+            "origen_titulo": "UCR",
+            "experiencia": "35",
+            "especialidad": "Emergencias médicas"
+        },
+        {
+            "id": "2",
+            "primer_nombre": "Eduardo",
+            "Apellido": "Saborío",
+            "cedula": "198576358",
+            "profesion": "Médico",
+            "origen_titulo": "UCIMED",
+            "experiencia": "15",
+            "especialidad": "Psicólogo"
+        },
+        {
+            "id": "3",
+            "primer_nombre": "Abigal",
+            "Apellido": "Saborío",
+            "cedula": "1975566329",
+            "profesion": "Doctor",
+            "origen_titulo": "UCR",
+            "experiencia": "9",
+            "especialidad": "Psiquíatra"
+        },
+        {
+            "id": "4",
+            "primer_nombre": "Camila",
+            "Apellido": "Monge",
+            "cedula": "179848518",
+            "profesion": "Doctor",
+            "origen_titulo": "UACA",
+            "experiencia": "35",
+            "especialidad": "Anestesióloga"
+        }
+    ]
+}

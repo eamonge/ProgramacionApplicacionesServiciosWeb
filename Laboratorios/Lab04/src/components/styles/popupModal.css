@@ -1,0 +1,31 @@
+.agregarDoctores-Div {
+  
+}
+
+.agregarDoctores-Div form {
+  width: 50%;
+  position: relative;
+  left: 25%;
+  border: solid 2px black;
+  border-radius: 20px;
+  padding: 1em;
+}
+
+.agregarDoctores-Div input {
+  border: none;
+  border-bottom: solid 1px black;
+  margin: 1em;
+  width: 90%;
+  padding: 1em;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* Controla el enfoque del input cuando el usuario está agregando valores en el popupModal */
+.agregarDoctores-Div input:focus {
+  outline: none;
+  border-bottom: solid 2px #00C9FF;
+}
