@@ -1,0 +1,28 @@
+table {
+  text-align: center;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table tbody tr {
+  transition: all 300ms;
+}
+
+/* Utiliza la pseudo clase nth-child para diferenciar entre filas pares e impares */
+table tbody tr:nth-child(even) {
+  background-color: #dfdede;
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: #ebebeb;
+}
+
+table tbody tr:hover {
+  background-color: #00C9FF;
+  color: whitesmoke
+}
+
+/* Uso del first-of-type pseudo clase */
+table tbody tr:first-of-type {
+  color: #00C9FF
+}
